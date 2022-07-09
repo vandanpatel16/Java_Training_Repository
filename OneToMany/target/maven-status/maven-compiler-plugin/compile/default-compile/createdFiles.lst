@@ -1,0 +1,6 @@
+com\demo\businesslogic\CompanyRepo.class
+com\demo\factory\HibernateUtil.class
+com\demo\client\Manage.class
+com\demo\entity\Company.class
+com\demo\businesslogic\ProductRepo.class
+com\demo\entity\Product.class
