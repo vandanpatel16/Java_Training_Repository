@@ -1,0 +1,4 @@
+com\demo\LoggingExample.class
+com\demo\MyFilter.class
+com\demo\MyFormatter.class
+com\demo\MyHandler.class
